@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Quest 1
+  m_EditorClassIdentifier: Assembly-CSharp::Quest1
+  questsNameEn: Free Times
+  questDescriptionEn: A customer want to know house 1's empty times.
+  questsNameTr: "Bo\u015F Saatler"
+  questDescriptionTr: "Bir m\xFC\u015Fteri Ev 1'in bo\u015F oldu\u011Fu saatleri
+    \xF6\u011Frenmek istiyor."
+  done: 0
+  reward: 100
+  reputation: 500
