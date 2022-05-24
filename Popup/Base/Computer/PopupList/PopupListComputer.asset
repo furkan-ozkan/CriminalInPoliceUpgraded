@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b89c03ea849f1d4686bed8616a2b40a, type: 3}
+  m_Name: PopupListComputer
+  m_EditorClassIdentifier: 
+  popupImage: {fileID: 2800000, guid: beda49abcd085804da080526a361756d, type: 3}
+  popupName: Computer Popup List
+  descriptipn: 
+  popupList:
+  - {fileID: 11400000, guid: 086860dfbfc404643a75f45be789d422, type: 2}

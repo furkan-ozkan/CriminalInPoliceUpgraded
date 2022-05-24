@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc281d9330551b94592258e6b02a386b, type: 3}
+  m_Name: Popup Sleep
+  m_EditorClassIdentifier: 
+  popupImage: {fileID: 2800000, guid: 80b88173a2df9e647998d9bce4717934, type: 3}
+  descriptipn: You only can sleep after 6pm

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b89c03ea849f1d4686bed8616a2b40a, type: 3}
+  m_Name: PopupListTeleportDoor
+  m_EditorClassIdentifier: 
+  popupImage: {fileID: 2800000, guid: e925af7c3a7b45c4588cc624f48d3bb8, type: 3}
+  popupName: Door
+  descriptipn: 
+  popupList:
+  - {fileID: 11400000, guid: b35bb44f99b3de6459485b32fba7c6a0, type: 2}
